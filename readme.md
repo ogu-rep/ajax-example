@@ -1,3 +1,9 @@
+# サンプルをクローン
+
+```
+git clone https://github.com/ogu-rep/ajax-example.git
+```
+
 # ローカルに確認用の簡易サーバーを用意
 
 ### インストール
